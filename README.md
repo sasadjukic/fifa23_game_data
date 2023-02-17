@@ -7,6 +7,7 @@ The analysis is written in VS Code, using Python, Panads, Matplotlib. I divided 
 I searched the database for some interesting findings. Inside, you'll find not only what are the most popular jerseys
 among football(soccer) players, but average salaries of players wearing them. The project includes finding best free agents by positions as well as players with the highest growth pootential. 
 
-<strong>HOW TO FIND WHAT YOU WANT?</strong>
+<strong>HOW TO FIND WHAT YOU WANT?</strong><br>
+<br>
 Packages are divided into clubs, free agents and players. Each contains python modules relevant to the package title. The asset folder containing images is also split into the sections named after the packages.
 
