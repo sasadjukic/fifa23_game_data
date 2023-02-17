@@ -12,3 +12,7 @@ among football(soccer) players, but average salaries of players wearing them. Th
 <br>
 Packages are divided into clubs, free agents and players. Each contains python modules relevant to the package title. The asset folder containing images is also split into the sections named after the packages.
 
+<strong>SCREENSHOTS</strong>
+<img src="./assets/player_charts/most_popular_jerseys.png" />
+<img src="./assets/player_charts/weekly_wages_by_jersey_number.png" />
+
