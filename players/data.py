@@ -16,7 +16,9 @@ fifa_23.rename(columns={
 fifa_23.columns = [x.lower() for x in fifa_23]
 fifa_23.drop_duplicates(inplace=True)
 
-def clean_data() -> pd.DataFrame:
+def get_clean_data() -> pd.DataFrame:
+
+    '''get DataFrame to use across players package''' 
 
     fifa_23.drop(fifa_23[fifa_23['jersey'] == '-'].index, inplace=True)
     fifa_23['jersey'] = fifa_23['jersey'].astype(int)
