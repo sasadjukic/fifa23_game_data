@@ -21,5 +21,5 @@ To see more charts check out the assets folder
 <img src="./assets/player_charts/weekly_wages_by_jersey_number.png" />
 <img src="./assets/player_charts/average_values_by_positions.png" />
 <img src="./assets/free_agent_charts/top_free_agents_overall.png" />
-<img src="./assets/clubs_chart/league_5_least_experienced.png" />
+<img src="./assets/clubs_charts/league_5_least_experienced.png" />
 
