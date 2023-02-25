@@ -6,7 +6,7 @@ The analysis is written in VS Code, using Python, Pandas, and Matplotlib. The en
 <br>
 <br>
 I searched the database for some interesting findings. Inside, you'll find not only what are the most popular jerseys
-among football(soccer) players, but average salaries of players wearing them. The project includes finding best free agents by positions as well as players with the highest growth pootential. The clubs section finds data for all clubs and for the clubs in top 5 European leagues.
+among football(soccer) players, but average salaries of players wearing them. The project includes finding best free agents by positions as well as players with the highest growth potential. The clubs section finds data for all clubs and for the clubs in top 5 European leagues.
 
 <strong>HOW TO FIND WHAT YOU WANT?</strong><br>
 <br>
@@ -21,4 +21,5 @@ To see more charts check out the assets folder
 <img src="./assets/player_charts/weekly_wages_by_jersey_number.png" />
 <img src="./assets/player_charts/average_values_by_positions.png" />
 <img src="./assets/free_agent_charts/top_free_agents_overall.png" />
+<img src="./assets/clubs_chart/league_5_least_experienced.png" />
 
