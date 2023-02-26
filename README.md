@@ -12,7 +12,8 @@ among football(soccer) players, but average salaries of players wearing them. Th
 <br>
 Packages are divided into clubs, free agents and players. Each contains python modules relevant to the package title. The assets folder containing images is also split in sections named after the packages.
 
-<strong>TESTS</strong>
+<strong>TESTS</strong><br>
+<br>
 I have included a sample test module in the clubs folder. This is not by any means a comprehensive test, but a sample
 of how I approached testing the functions. 
 
