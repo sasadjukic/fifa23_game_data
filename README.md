@@ -10,13 +10,19 @@ among football(soccer) players, but average salaries of players wearing them. Th
 
 <strong>HOW TO FIND WHAT YOU WANT?</strong><br>
 <br>
-Packages are divided into clubs, free agents and players. Each contains python modules relevant to the package title. The assets folder containing images is also split into the sections named after the packages.
+Packages are divided into clubs, free agents and players. Each contains python modules relevant to the package title. The assets folder containing images is also split in sections named after the packages.
+
+<strong>TESTS</strong>
+I have included a sample test module in the clubs folder. This is not by any means a comprehensive test, but a sample
+of how I approached testing the functions. 
 
 <strong>NOTES</strong><br>
 <br>
 To see more charts check out the assets folder
 
 <strong>SCREENSHOTS</strong>
+<img src="./assets/clubs_charts/weekly_wages.png" />
+<img src="./assets/clubs_charts/roster_values.png" />
 <img src="./assets/player_charts/most_popular_jerseys.png" />
 <img src="./assets/player_charts/weekly_wages_by_jersey_number.png" />
 <img src="./assets/player_charts/average_values_by_positions.png" />
